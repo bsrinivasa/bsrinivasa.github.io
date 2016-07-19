@@ -1,2 +1,7 @@
 # bsrinivasa.github.io
-Mapbox GL JS task
+
+
+Hi,
+This is a master repo. Check out other repos for project and gh-pages branch.
+
+Thanks! :blush:
